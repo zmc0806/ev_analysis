@@ -1,0 +1,6 @@
+{
+  "api_key": "3sAEbbB4m1usrLLgLuNsjLVcb4fLfKLnBB4QDuee",
+  "base_url": "https://developer.nrel.gov/api/alt-fuel-stations/v1",
+  "state": "CA",
+  "fuel_type": "ELEC"
+}
