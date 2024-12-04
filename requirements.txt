@@ -1,0 +1,14 @@
+requests
+jsonlib-python3
+pandas
+matplotlib
+numpy
+scipy
+tqdm
+geopandas
+folium
+altair
+seaborn
+osmnx
+networkx
+shapely
